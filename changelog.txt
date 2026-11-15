@@ -1,0 +1,9 @@
+Mega Life Roleplay Mobile
+
+v1.0
+- New Mega Life launcher design (Home + Settings)
+- Live server status, ping and player count
+- FPS limit setting (30 / 60 / 90 / 120), 20 FPS lock fixed
+- Voice chat fixed, new round microphone button
+- New in-game dialog design
+- Automatic launcher updates

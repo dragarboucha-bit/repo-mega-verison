@@ -1,0 +1,19 @@
+{
+  "status_server": true,
+
+  "data_url": "https://www.mediafire.com/file/rhkel93l3frrgtn/files.zip/file",
+  "data_version": "1",
+  "data_size": 0,
+  "data_sentinel": "SAMP/SAMP.ide",
+
+  "mods_url": "",
+  "mods_version": "1",
+
+  "apk_version_code": 0,
+  "apk_version_name": "",
+  "apk_url": "https://github.com/dragarboucha-bit/repo-mega-verison/releases/latest/download/MegaLife.apk",
+  "apk_sha256": "",
+  "apk_mandatory": true,
+  "apk_min_version_code": 0,
+  "apk_notes": ""
+}

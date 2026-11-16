@@ -1,5 +1,18 @@
 {
-  "version": "1",
-  "files": [],
+  "version": "2",
+  "files": [
+    {
+      "path": "models/txd/mlphone.txd",
+      "size": 4194600,
+      "sha256": "56169d7b8306f6c98c86cec4c9068f7f124d77376b8f7c2def864bf972c18cab",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/mlphone.txd"
+    },
+    {
+      "path": "textures/mlphone.txd",
+      "size": 4194600,
+      "sha256": "56169d7b8306f6c98c86cec4c9068f7f124d77376b8f7c2def864bf972c18cab",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/mlphone.txd"
+    }
+  ],
   "packs": {}
 }

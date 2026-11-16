@@ -1,5 +1,5 @@
 {
-  "version": "2",
+  "version": "3",
   "files": [
     {
       "path": "models/txd/mlphone.txd",
@@ -8,10 +8,16 @@
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/mlphone.txd"
     },
     {
-      "path": "textures/mlphone.txd",
-      "size": 4194600,
-      "sha256": "56169d7b8306f6c98c86cec4c9068f7f124d77376b8f7c2def864bf972c18cab",
-      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/mlphone.txd"
+      "path": "models/txd/megalogo.txd",
+      "size": 1048744,
+      "sha256": "b9b92b71808d87d29f67f4f5bcfceb73f9eb5c059246c7b351205a62a309aa32",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/megalogo.txd"
+    },
+    {
+      "path": "models/txd/velohost.txd",
+      "size": 524456,
+      "sha256": "d413261ed0c4741119ca3a7fccb5cb554430b537b5a78f966232cdc10287224c",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/velohost.txd"
     }
   ],
   "packs": {}

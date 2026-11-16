@@ -10,10 +10,10 @@
   "mods_url": "",
   "mods_version": "1",
 
-  "apk_version_code": 2019,
-  "apk_version_name": "1.0.19",
+  "apk_version_code": 2021,
+  "apk_version_name": "1.0.21",
   "apk_url": "https://github.com/dragarboucha-bit/repo-mega-verison/releases/latest/download/MegaLife.apk",
-  "apk_sha256": "f157a29ca2bc8423dd9a4c7cb6a815418c9b9d14eb1092d5934f89c1183b0d1e",
+  "apk_sha256": "53b00dd121898892eb44c0c14b27be77df0247dda5296b1ac423c1e5869ef5f8",
   "apk_mandatory": true,
   "apk_min_version_code": 0,
   "apk_notes": ""

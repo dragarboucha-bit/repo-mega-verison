@@ -1,5 +1,5 @@
 {
-  "version": "3",
+  "version": "4",
   "files": [
     {
       "path": "models/txd/mlphone.txd",
@@ -18,6 +18,24 @@
       "size": 524456,
       "sha256": "d413261ed0c4741119ca3a7fccb5cb554430b537b5a78f966232cdc10287224c",
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/velohost.txd"
+    },
+    {
+      "path": "models/txd/wmymech.txd",
+      "size": 262312,
+      "sha256": "a5735d13297503485a80f6f47605930c5d9a2306317cef1aa0bc06ec1bad0aa9",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/wmymech.txd"
+    },
+    {
+      "path": "models/txd/enforcer.txd",
+      "size": 1710888,
+      "sha256": "9a730eccfbd6d342cabfef794385a6cb5fafea07fdf98ad06e7e7a8542644b02",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/vehicles/enforcer.txd"
+    },
+    {
+      "path": "texdb/custom.img",
+      "size": 3901440,
+      "sha256": "fbc478329a7ce4c1669c377e766e848d9c97e5ab23cd36e755bfb16c7c50b216",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/texdb/custom.img"
     }
   ],
   "packs": {}

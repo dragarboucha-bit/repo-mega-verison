@@ -1,5 +1,5 @@
 {
-  "version": "4",
+  "version": "5",
   "files": [
     {
       "path": "models/txd/mlphone.txd",
@@ -30,13 +30,23 @@
       "size": 1710888,
       "sha256": "9a730eccfbd6d342cabfef794385a6cb5fafea07fdf98ad06e7e7a8542644b02",
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/vehicles/enforcer.txd"
-    },
-    {
-      "path": "texdb/custom.img",
-      "size": 3901440,
-      "sha256": "fbc478329a7ce4c1669c377e766e848d9c97e5ab23cd36e755bfb16c7c50b216",
-      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/texdb/custom.img"
     }
   ],
-  "packs": {}
+  "packs": {},
+  "img": [
+    {
+      "archive": "texdb/gta3.img",
+      "name": "wmymech.dff",
+      "size": 145053,
+      "sha256": "98e81a1ecbe2ab9533b1431110a57263e1076023675f9b93d9b58c471ef643c9",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/wmymech.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "enforcer.dff",
+      "size": 3753984,
+      "sha256": "af696942c28942d14b1a03b6241b8906afbc7ea6dc8426914c7719513647e636",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/vehicles/enforcer.dff"
+    }
+  ]
 }

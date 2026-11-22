@@ -1,5 +1,5 @@
 {
-  "version": "8",
+  "version": "9",
   "files": [
     {
       "path": "models/txd/mlphone.txd",
@@ -34,13 +34,13 @@
     {
       "path": "models/txd/ml_hud.txd",
       "size": 160296,
-      "sha256": "efdfa6d0b814c54586735522fcec95168467d8624b75e43123c854849fd41de3",
+      "sha256": "932bb4046993fd2c4850d41ac649e4ca74de916443e2eb92dc75497b8f8949bb",
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_hud.txd"
     },
     {
       "path": "models/txd/ml_vehicle_hud.txd",
-      "size": 1098152,
-      "sha256": "5587ae9d7fe774c52a27a7dbf33165ef790754477edcd922a495f5aa5ed9bea5",
+      "size": 1428392,
+      "sha256": "d210e62199c434f52d7f1e4b26bb9c27be84ecb98f9c16a53930d1310e27d915",
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_vehicle_hud.txd"
     },
     {

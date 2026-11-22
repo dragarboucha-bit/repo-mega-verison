@@ -1,5 +1,5 @@
 {
-  "version": "7",
+  "version": "8",
   "files": [
     {
       "path": "models/txd/mlphone.txd",
@@ -39,8 +39,8 @@
     },
     {
       "path": "models/txd/ml_vehicle_hud.txd",
-      "size": 950440,
-      "sha256": "b3fb5686173269839f3da73809b742f92abaf6754471641b5cb673b4f33f53cd",
+      "size": 1098152,
+      "sha256": "5587ae9d7fe774c52a27a7dbf33165ef790754477edcd922a495f5aa5ed9bea5",
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_vehicle_hud.txd"
     },
     {

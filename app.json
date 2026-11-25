@@ -1,5 +1,5 @@
 {
-  "status_server": false,
+  "status_server": true,
 
   "data_url": "https://www.mediafire.com/file/rhkel93l3frrgtn/files.zip/file",
   "data_version": "1",

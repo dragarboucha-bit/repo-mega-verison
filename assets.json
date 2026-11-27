@@ -1,5 +1,5 @@
 {
-  "version": "9",
+  "version": "10",
   "files": [
     {
       "path": "models/txd/mlphone.txd",
@@ -60,6 +60,120 @@
       "size": 99368,
       "sha256": "92283943aa2a260c3515ee22ccde8d9df6c8931a338f4917c946f146130ca8ed",
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/vehicles/esperant.txd"
+    },
+    {
+      "path": "models/txd/ml_garage.txd",
+      "size": 1022632,
+      "sha256": "798d833d48c3268ba0d16ebd50acb05eff7a636e808f3659802de362fd5d8b19",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_garage.txd"
+    },
+    {
+      "path": "models/txd/ml_gift.txd",
+      "size": 1038888,
+      "sha256": "e636a06cdb7b72db296c93c1a1faa5df36b286248f291ca89e1368eac80dfd6c",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_gift.txd"
+    },
+    {
+      "path": "models/txd/ml_inv.txd",
+      "size": 868520,
+      "sha256": "70c0aff5c8d6975fee70eb53e6ea39bb7b22fa1ebd17ba3716b9569850df123f",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_inv.txd"
+    },
+    {
+      "path": "models/txd/ml_login.txd",
+      "size": 2877736,
+      "sha256": "79e7851564426ea12f0d0fe0b768505ed1575e2a48b0562bf720be5a0d82ec79",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_login.txd"
+    },
+    {
+      "path": "models/txd/ml_mission.txd",
+      "size": 1019176,
+      "sha256": "fe1dee83f0a49e17327f0bda52680e631317521f93a9d7ce110b719dc7c7eeb6",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_mission.txd"
+    },
+    {
+      "path": "models/txd/ml_radio.txd",
+      "size": 326952,
+      "sha256": "bad9b5bc821ab4750649464c6b20549ad7e35c95d15b26cd31d1a95abbed4947",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_radio.txd"
+    },
+    {
+      "path": "models/txd/ml_spin.txd",
+      "size": 7196584,
+      "sha256": "f8fb546084986c3f0dc0fa015e52adf388d9841f38a2695a2f9f866358a644c0",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_spin.txd"
+    },
+    {
+      "path": "models/txd/ml_ui.txd",
+      "size": 662952,
+      "sha256": "a6ed92a31a7a4827819b0e99183a26045b1af053f42e19b26587b982b2e56ef0",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_ui.txd"
+    },
+    {
+      "path": "models/txd/ml_wheel.txd",
+      "size": 1563688,
+      "sha256": "782e641d2b271f94bff7719d21cbd847d48eb6fc517ffeeb1b09d980ce385029",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_wheel.txd"
+    },
+    {
+      "path": "models/txd/ml_xmas.txd",
+      "size": 1428136,
+      "sha256": "062b1b3c3aa349549cc48679b0a9cee3d876574836d1e62f4abc4be2da7d6c16",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_xmas.txd"
+    },
+    {
+      "path": "models/txd/lapd1.txd",
+      "size": 2097448,
+      "sha256": "20d67ed8b8cb8a1c6d059a743cc85830ab16c1b3be88f47226c8c8c150076dcf",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/lapd1.txd"
+    },
+    {
+      "path": "models/txd/sfpd1.txd",
+      "size": 2097448,
+      "sha256": "20d67ed8b8cb8a1c6d059a743cc85830ab16c1b3be88f47226c8c8c150076dcf",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/sfpd1.txd"
+    },
+    {
+      "path": "models/txd/swat.txd",
+      "size": 2097448,
+      "sha256": "910f22a2639162d0c38d7711414e0b08d92971b026b2abc64915b6f577650cb5",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/swat.txd"
+    },
+    {
+      "path": "models/txd/army.txd",
+      "size": 2097448,
+      "sha256": "130ebc5cc55d493be9f2a466afc89dfb45bb0884927fca5c263853b0917fd622",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/army.txd"
+    },
+    {
+      "path": "models/txd/lvpd1.txd",
+      "size": 2097448,
+      "sha256": "64502341285f822e469c9bfc9233d720e8f5092c4dac1ee6a64fc9cabe80fde5",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/lvpd1.txd"
+    },
+    {
+      "path": "models/txd/laemt1.txd",
+      "size": 2097448,
+      "sha256": "62d91503cadabc0792f1a70f05883a876feda51dfd2c82f278d5ffe7d1660dd0",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/laemt1.txd"
+    },
+    {
+      "path": "models/txd/lvemt1.txd",
+      "size": 2097448,
+      "sha256": "62d91503cadabc0792f1a70f05883a876feda51dfd2c82f278d5ffe7d1660dd0",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/lvemt1.txd"
+    },
+    {
+      "path": "models/txd/sfemt1.txd",
+      "size": 2097448,
+      "sha256": "62d91503cadabc0792f1a70f05883a876feda51dfd2c82f278d5ffe7d1660dd0",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/sfemt1.txd"
+    },
+    {
+      "path": "models/txd/wmoice.txd",
+      "size": 2097448,
+      "sha256": "c200e2882ba35ca1b84c0f281c24d452c9a0de4e2011176a0358f5be7e88e63b",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/wmoice.txd"
     }
   ],
   "packs": {},
@@ -84,6 +198,69 @@
       "size": 628532,
       "sha256": "03e7506a85fa8a5152d212e4c67e901458d2cf1fb08d5d9caf5216bb0be40fa8",
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/vehicles/esperant.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "lapd1.dff",
+      "size": 185245,
+      "sha256": "bf6286faef68490ef0302f3cb1728855330555b44ec2a57f92b938c945367f4c",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/lapd1.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "sfpd1.dff",
+      "size": 185245,
+      "sha256": "bf6286faef68490ef0302f3cb1728855330555b44ec2a57f92b938c945367f4c",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/sfpd1.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "swat.dff",
+      "size": 185245,
+      "sha256": "9766628fe43fad802589d07a47e2896cbf617710752c88232f7947fa8476db93",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/swat.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "army.dff",
+      "size": 185245,
+      "sha256": "60e21769770788c3eacddc739e1bec9dd5114baac8cf63a889cbea0619232557",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/army.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "lvpd1.dff",
+      "size": 183149,
+      "sha256": "db1a0ec188318418ce7b76a327ff771caff8234a8d5cc3c9d4a7e1e82a1d7fa9",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/lvpd1.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "laemt1.dff",
+      "size": 177117,
+      "sha256": "ebcec360f42a904c45507385d248bb7acea88372f495c0f4b6f5ff1f87b2f984",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/laemt1.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "lvemt1.dff",
+      "size": 177117,
+      "sha256": "ebcec360f42a904c45507385d248bb7acea88372f495c0f4b6f5ff1f87b2f984",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/lvemt1.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "sfemt1.dff",
+      "size": 177117,
+      "sha256": "ebcec360f42a904c45507385d248bb7acea88372f495c0f4b6f5ff1f87b2f984",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/sfemt1.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "wmoice.dff",
+      "size": 166685,
+      "sha256": "6ea56f696f97d2eb87b7ff8bf36eb11e8aceb254f7e07f93895c245bfd0e7933",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/wmoice.dff"
     }
   ]
 }

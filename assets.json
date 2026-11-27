@@ -1,5 +1,5 @@
 {
-  "version": "11",
+  "version": "12",
   "files": [
     {
       "path": "models/txd/mlphone.txd",
@@ -186,6 +186,12 @@
       "size": 2791944,
       "sha256": "7b80ac4f92aa9add8925345478467c3895000e6f297483aff475e1a3130e1bb2",
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/ui/ml_xui.txd"
+    },
+    {
+      "path": "models/txd/dnb1.txd",
+      "size": 1020576,
+      "sha256": "9665a3f0ce7c0deec764a8c52d418ef0bf512df6818e53a5225a562be7051f8d",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/dnb1.txd"
     }
   ],
   "packs": {},
@@ -273,6 +279,13 @@
       "size": 3452823,
       "sha256": "4aa6a69d2980bfcd926bd8bd2afd2ed42d14d21b4a08d76e348ccfcd6b15857b",
       "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/wmoice.dff"
+    },
+    {
+      "archive": "texdb/gta3.img",
+      "name": "dnb1.dff",
+      "size": 1983535,
+      "sha256": "711a45815f42a0cc9092a2873b3140ecd09ba9a5f76fe338c84f472ba4574302",
+      "url": "https://raw.githubusercontent.com/dragarboucha-bit/repo-mega-verison/main/mods/skins/dnb1.dff"
     }
   ]
 }
